@@ -105,29 +105,3 @@ https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCba3hpU7EFBSk817y9qZkiA
 https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
 
-
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE
-https://g4.vxral-hor.transport.edge-access.net/a10/ngrp:MITREHD-10002_all/MITREHD-10002_540p.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCYvINPByAdCcpA0sWrF3I_w.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="NOTICIAS NACIONALES", Telefe Noticias
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS INTERNACIONAL", TELESUR  25.4
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8  
-
-
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xqQEfRfgmd-7W5YSrsMCULg4NYd2QLU912no0Dmok4FCdC4LI_romUJTN0sRDanNuyarQjJ9=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/wRy3AgzuKPU64ppne21ccwQU_TDcFwke4m3NRFw-1zdPgUjCBjlUoNmQDXJ5QgakwQ0tDKmC=s88-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
-https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
-
-#EXTINF:-1 group-title="NOTICIAS NACIONALES", CADENA 3 YT
-https://www.youtube.com/watch?v=sEooidi0EAQ 
